@@ -1,0 +1,16 @@
+add_library(${PROJECT_NAME}_backend
+        vertex.cc
+        edge.cc
+        problem.cc
+        vertex_pose.cc
+        edge_reprojection.cc
+        edge_imu.cc
+        edge_prior.cpp
+        loss_function.cc
+        imu_integration.cc
+        )
+
+target_link_libraries( ${PROJECT_NAME}_backend
+        ${THIRD_PARTY_LIBS}
+        )
+

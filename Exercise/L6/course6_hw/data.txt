@@ -1,0 +1,41 @@
+observe frames: 7     noise stddev: 0.01    RMSE of translation: 0.138417        singular value ratio: 0.000432682
+observe frames: 7     noise stddev: 0.02    RMSE of translation: 0.27876        singular value ratio: 0.0017419
+observe frames: 7     noise stddev: 0.03    RMSE of translation: 0.421305        singular value ratio: 0.00394312
+observe frames: 7     noise stddev: 0.04    RMSE of translation: 0.566356        singular value ratio: 0.00705016
+observe frames: 7     noise stddev: 0.05    RMSE of translation: 0.714245        singular value ratio: 0.0110752
+observe frames: 7     noise stddev: 0.06    RMSE of translation: 0.865336        singular value ratio: 0.0160288
+observe frames: 7     noise stddev: 0.07    RMSE of translation: 1.02003        singular value ratio: 0.0219199
+observe frames: 7     noise stddev: 0.08    RMSE of translation: 1.17878        singular value ratio: 0.0287561
+observe frames: 7     noise stddev: 0.09    RMSE of translation: 1.34208        singular value ratio: 0.0365431
+observe frames: 7     noise stddev: 0.1    RMSE of translation: 1.51049        singular value ratio: 0.0452853
+observe frames: 7     noise stddev: 0.11    RMSE of translation: 1.68464        singular value ratio: 0.0549853
+observe frames: 7     noise stddev: 0.12    RMSE of translation: 1.86525        singular value ratio: 0.0656441
+observe frames: 7     noise stddev: 0.13    RMSE of translation: 2.05312        singular value ratio: 0.0772609
+observe frames: 7     noise stddev: 0.14    RMSE of translation: 2.2492        singular value ratio: 0.0898331
+observe frames: 7     noise stddev: 0.15    RMSE of translation: 2.45455        singular value ratio: 0.103356
+
+
+
+
+observe frames: 1     noise stddev: 0.05    RMSE of translation: 4.17981        singular value ratio: 0.108942
+observe frames: 2     noise stddev: 0.05    RMSE of translation: 1.46219        singular value ratio: 0.00130044
+observe frames: 3     noise stddev: 0.05    RMSE of translation: 0.642021        singular value ratio: 0.00383875
+observe frames: 4     noise stddev: 0.05    RMSE of translation: 0.129756        singular value ratio: 0.00575744
+observe frames: 5     noise stddev: 0.05    RMSE of translation: 0.0336155        singular value ratio: 0.00665484
+observe frames: 6     noise stddev: 0.05    RMSE of translation: 0.622189        singular value ratio: 0.0100492
+observe frames: 7     noise stddev: 0.05    RMSE of translation: 0.714245        singular value ratio: 0.0110752
+observe frames: 8     noise stddev: 0.05    RMSE of translation: 0.366828        singular value ratio: 0.0101318
+observe frames: 9     noise stddev: 0.05    RMSE of translation: 0.216166        singular value ratio: 0.00968966
+observe frames: 10     noise stddev: 0.05    RMSE of translation: 0.311195        singular value ratio: 0.0131627
+observe frames: 11     noise stddev: 0.05    RMSE of translation: 0.282865        singular value ratio: 0.0120262
+observe frames: 12     noise stddev: 0.05    RMSE of translation: 0.321004        singular value ratio: 0.0147766
+observe frames: 13     noise stddev: 0.05    RMSE of translation: 0.16281        singular value ratio: 0.0139397
+observe frames: 14     noise stddev: 0.05    RMSE of translation: 0.233319        singular value ratio: 0.0124138
+observe frames: 15     noise stddev: 0.05    RMSE of translation: 0.24987        singular value ratio: 0.0112787
+observe frames: 16     noise stddev: 0.05    RMSE of translation: 0.0659318        singular value ratio: 0.0130432
+observe frames: 17     noise stddev: 0.05    RMSE of translation: 0.034116        singular value ratio: 0.0121015
+observe frames: 18     noise stddev: 0.05    RMSE of translation: 0.0572544        singular value ratio: 0.0135969
+observe frames: 19     noise stddev: 0.05    RMSE of translation: 0.0403843        singular value ratio: 0.0125579
+observe frames: 20     noise stddev: 0.05    RMSE of translation: 0.183698        singular value ratio: 0.0150983
+
+

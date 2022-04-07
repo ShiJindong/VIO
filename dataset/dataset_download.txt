@@ -1,0 +1,6 @@
+https://github.com/HeYijia/VINS-Course
+
+https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets#available_data
+
+select:  Machine Hall 05    ASL Dataset Format
+

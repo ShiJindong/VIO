@@ -1,0 +1,4 @@
+# ninja log v5
+4	523	1640389957456407854	pangolin_test	a493c364727497ba
+0	2614	1640370480351215767	CMakeFiles/pangolin_test.dir/pangolin_test.cpp.o	f5fec58f607d7ede
+0	28	1640443731418167663	build.ninja	f5fd6b1ba82edcf0
