@@ -1,4 +1,4 @@
-# VIO (Visual Inertial Odometry)
+# VIO
 ---
 The tasks I have finished in the courses "Visual Inertial Odometry (视觉SLAM进阶，从零开始手写VIO)" 
 
